@@ -1,0 +1,14 @@
+{
+  "repo": "gpt5.6terra-gpt-5.6-terra-api",
+  "model": "gpt-5.6-terra",
+  "display": "GPT-5.6 Terra",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 1.6,
+    "cached_input": 0.16,
+    "cache_write": 2
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
