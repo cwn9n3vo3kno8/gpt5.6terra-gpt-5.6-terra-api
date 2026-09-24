@@ -2,7 +2,7 @@
 
 > **input $1.6; cached_input $0.16; cache_write $2** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-9d99d0)** · **[Get an API key](https://go.apimart.ai/k-d6e05e)**
 
 Everything here refers to **gpt-5.6-terra** — also written **gpt5.6terra** or **gpt 5.6 terra**.
 
